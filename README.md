@@ -1,4 +1,4 @@
-# LBYEC72
+# LBYEC72-EK2
 ```c
 #include <stdio.h>
 #include <stdlib.h>
